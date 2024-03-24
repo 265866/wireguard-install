@@ -43,3 +43,5 @@ Then to add, remove, and list users, run:
 The add arg will output the files
 wg0-client-(name).conf  wg0-client-(name).png
 In the root directory. The .conf file will be the client configuration file, and the .png file will be the client configuration QR code.
+
+(The remove arg will remove these files, should the user exist.)
